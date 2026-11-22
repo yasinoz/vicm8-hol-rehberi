@@ -30,6 +30,13 @@ Bunun pratik sonucu:
 Kısaca: **HOL = kavram pekiştirme + keşif**, **eğitmen lab'ı + bu rehber =
 temelleri sıfırdan öğretme.**
 
+Her günün **"Bölüm C — Eğitmen lab demosu"** kısmında bu temel adımlar **tam
+adım adım** yazılıdır (ESXi kurulumu, vCenter'a host ekleme, vSwitch/vDS,
+iSCSI/NFS datastore, VM/template/snapshot, vMotion/Storage vMotion, HA/DRS,
+Lifecycle remediate) — eğitmen canlı uygular, öğrenci yanında takip eder.
+Böylece rehber hem öğrenci (HOL) hem eğitmen (tam demo prosedürü) için
+baştan sona yeterlidir.
+
 ---
 
 ## Nasıl kullanılır (öğrenci akışı)
