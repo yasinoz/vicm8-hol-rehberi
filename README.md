@@ -62,6 +62,9 @@ baştan sona yeterlidir.
 | **5** | Kümeler (HA/DRS), yaşam döngüsü + işletme | HOL-2704-01 · HOL-2711-02/03/06 | [05-gun-5.md](05-gun-5.md) |
 | **+** | İleri / bonus (ICM dışı): Kubernetes, Automation, Operations what's new | HOL-2704-07 · HOL-2711-01/21 | [06-bonus-ileri.md](06-bonus-ileri.md) |
 
+> 🖨️ **Yazdırılabilir tek sayfa çizelge:** [`cizelge.html`](cizelge.html) —
+> tarayıcıda aç → **Ctrl+P** → A4 → PDF olarak kaydet ve öğrencilere dağıt.
+
 ---
 
 ## Lab envanteri (12 HOL rehberi) ve ICM ilgisi
